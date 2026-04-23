@@ -176,6 +176,6 @@ firstattempt2026_lastname/
 
 ## Author
 
-**[Your Last Name], [Your First Name]**
-Course: 4-112 MW 7:30AM / 4-111 MW 9:00AM
+Clarabal, Keigh Andrey
+Course: 4-111 MW 9:00AM
 Academic Year: 2025–2026
