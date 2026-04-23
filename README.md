@@ -107,49 +107,44 @@ npm run preview
 ## Screenshots
 
 > *(Replace these with actual browser screenshots after running the app)*
+## 01 — Login Page
+![Login](Screenshots/Login.png)
 
-### 01 — Login Page
-![Login](screenshots/01_login.png)
+## 02 — Alumni Home Dashboard
+![Home](Screenshots/Alumni%20Home%20Dashboard.png)
 
-### 02 — Alumni Home Dashboard
-![Home](screenshots/02_home.png)
+## 03 — Network Dashboard
+![Network](Screenshots/Network%20Dashboard.png)
 
-### 03 — Network Dashboard
-![Network](screenshots/03_network.png)
+## 04 — Donation Hub
+![Donate](Screenshots/Donation%20Hub.png)
 
-### 04 — Donation Hub
-![Donate](screenshots/04_donate.png)
+## 05 — Emergency Aid
+![Emergency](Screenshots/Emergency%20Aid.png)
 
-### 05 — Emergency Aid
-![Emergency](screenshots/05_emergency.png)
+## 06 — Career Opportunities
+![Career](Screenshots/Career%20Opportunities.png)
 
-### 06 — Career Opportunities
-![Career](screenshots/06_career.png)
+## 07 — Academic Records / Documents
+![Documents](Screenshots/Academic%20Records.png)
 
-### 07 — Academic Records / Documents
-![Documents](screenshots/07_documents.png)
+## 08 — My Profile (Academic Passport)
+![Profile](Screenshots/My%20Profile.png)
 
-### 08 — My Profile (Academic Passport)
-![Profile](screenshots/08_profile.png)
+## 09 — Admin Home
+![Admin](Screenshots/Admin%20Home.png)
 
-### 09 — Admin Home
-![Admin](screenshots/09_admin.png)
+## 10 — Moderation Queue
+![Queue](Screenshots/Moderation%20Queue.png)
 
-### 10 — Moderation Queue
-![Queue](screenshots/10_queue.png)
+## 11 — Review Queue Detail
+![Review](Screenshots/Review%20Queue.png)
 
-### 11 — Review Queue Detail
-![Review](screenshots/11_review.png)
+## 12 — Donation Insights
+![Insights](Screenshots/Donation%20Insights.png)
 
-### 12 — Donation Insights
-![Insights](screenshots/12_insights.png)
-
-### 13 — Pledge & Automate
-![Pledge](screenshots/13_pledge.png)
-
-### 14 — Create Campaign
-![Campaign](screenshots/14_create_campaign.png)
-
+## 13 — Pledge & Automate
+![Pledge](Screenshots/Create%20Campaign.png)
 ---
 
 ## Tech Stack
